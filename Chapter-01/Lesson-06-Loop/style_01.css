@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.content{
+	margin: 20px auto;
+	width: 600px;
+	border: 1px solid #999;
+	padding: 10px;
+}
+
+.content h1{
+	color: red;
+	text-align: center;
+}
+
+.content ul{
+	margin: 23px 0px 0px 30px;	
+}
+
+.content ul li{
+	margin-top: 5px;
+	list-style: decimal;
+}
